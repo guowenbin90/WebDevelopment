@@ -35,10 +35,10 @@ In that case, you would use the Twitter API to post a tweet, which in reality in
 ### Using an API
 In the next few parts of the lesson, you'll see how to use the World Bank API. 
 This API is relatively straightforward to use. Each API, however, will have a different set up and only allow you to take certain actions. 
-In general, you send a request via a web url that specifies the information you want. You receive data back typically in XML or JSON.
+In general, you send a request via a web url that specifies the information you want. You receive data back typically in [XML](https://www.w3schools.com/xml/xml_whatis.asp) or JSON(https://www.w3schools.com/xml/xml_whatis.asp).
 
 The XML standard was developed in the 1970s and 1980s and soon became a common way to transfer data over the web. 
-JSON was developed in the mid 1990s. Over time, JSON has increased in popularity relative to XML perhaps because JSON is easier to parse.
+JSON was developed in the mid 1990s. Over time, [JSON has increased in popularity relative to XML](https://www.programmableweb.com/news/jsons-eight-year-convergence-xml/2013/12/26) perhaps because JSON is easier to parse.
 
 Some APIs require authentication; essentially the company with the API gives you 'credentials' 
 so that they can track how you are using the API and ensure you have the proper permissions.
